@@ -1,30 +1,30 @@
 {
   "files": {
-    "main.css": "/edci337a4/static/css/main.231dbd54.chunk.css",
-    "main.js": "/edci337a4/static/js/main.c7ba489c.chunk.js",
-    "main.js.map": "/edci337a4/static/js/main.c7ba489c.chunk.js.map",
-    "runtime-main.js": "/edci337a4/static/js/runtime-main.9d55790e.js",
-    "runtime-main.js.map": "/edci337a4/static/js/runtime-main.9d55790e.js.map",
-    "static/js/2.f9a9c346.chunk.js": "/edci337a4/static/js/2.f9a9c346.chunk.js",
-    "static/js/2.f9a9c346.chunk.js.map": "/edci337a4/static/js/2.f9a9c346.chunk.js.map",
-    "index.html": "/edci337a4/index.html",
-    "precache-manifest.de62cabc96db5cdff4bc34dc3c861a04.js": "/edci337a4/precache-manifest.de62cabc96db5cdff4bc34dc3c861a04.js",
-    "service-worker.js": "/edci337a4/service-worker.js",
-    "static/css/main.231dbd54.chunk.css.map": "/edci337a4/static/css/main.231dbd54.chunk.css.map",
-    "static/media/1024px-Tesla_Model_3_parked,_front_driver_side.jpg": "/edci337a4/static/media/1024px-Tesla_Model_3_parked,_front_driver_side.304fce08.jpg",
-    "static/media/1769_Cugnot_SteamTractor3.jpg": "/edci337a4/static/media/1769_Cugnot_SteamTractor3.59259f83.jpg",
-    "static/media/220px-1888_Flocken_Elektrowagen.jpg": "/edci337a4/static/media/220px-1888_Flocken_Elektrowagen.e010d834.jpg",
-    "static/media/220px-Benz-1.jpg": "/edci337a4/static/media/220px-Benz-1.3bf535b5.jpg",
-    "static/media/220px-Bugatti_Chiron_Sport_Genf_2018.jpg": "/edci337a4/static/media/220px-Bugatti_Chiron_Sport_Genf_2018.703690d8.jpg",
-    "static/media/280px-1925_Ford_Model_T_touring.jpg": "/edci337a4/static/media/280px-1925_Ford_Model_T_touring.93298040.jpg",
-    "static/media/280px-Morris_Mini-Minor_1959_(621_AOK).jpg": "/edci337a4/static/media/280px-Morris_Mini-Minor_1959_(621_AOK).d7a58851.jpg",
-    "static/media/Beetle.jpg": "/edci337a4/static/media/Beetle.8d399dee.jpg",
-    "static/media/Bugatti_Typ_35C_Grand_Prix_Racer_1926.jpg": "/edci337a4/static/media/Bugatti_Typ_35C_Grand_Prix_Racer_1926.8e060056.jpg"
+    "main.css": "/static/css/main.231dbd54.chunk.css",
+    "main.js": "/static/js/main.a4a03802.chunk.js",
+    "main.js.map": "/static/js/main.a4a03802.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.b23e18fc.js",
+    "runtime-main.js.map": "/static/js/runtime-main.b23e18fc.js.map",
+    "static/js/2.f9a9c346.chunk.js": "/static/js/2.f9a9c346.chunk.js",
+    "static/js/2.f9a9c346.chunk.js.map": "/static/js/2.f9a9c346.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.0c7c1d0569474bb79feac1c05a6c4b16.js": "/precache-manifest.0c7c1d0569474bb79feac1c05a6c4b16.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.231dbd54.chunk.css.map": "/static/css/main.231dbd54.chunk.css.map",
+    "static/media/1024px-Tesla_Model_3_parked,_front_driver_side.jpg": "/static/media/1024px-Tesla_Model_3_parked,_front_driver_side.304fce08.jpg",
+    "static/media/1769_Cugnot_SteamTractor3.jpg": "/static/media/1769_Cugnot_SteamTractor3.59259f83.jpg",
+    "static/media/220px-1888_Flocken_Elektrowagen.jpg": "/static/media/220px-1888_Flocken_Elektrowagen.e010d834.jpg",
+    "static/media/220px-Benz-1.jpg": "/static/media/220px-Benz-1.3bf535b5.jpg",
+    "static/media/220px-Bugatti_Chiron_Sport_Genf_2018.jpg": "/static/media/220px-Bugatti_Chiron_Sport_Genf_2018.703690d8.jpg",
+    "static/media/280px-1925_Ford_Model_T_touring.jpg": "/static/media/280px-1925_Ford_Model_T_touring.93298040.jpg",
+    "static/media/280px-Morris_Mini-Minor_1959_(621_AOK).jpg": "/static/media/280px-Morris_Mini-Minor_1959_(621_AOK).d7a58851.jpg",
+    "static/media/Beetle.jpg": "/static/media/Beetle.8d399dee.jpg",
+    "static/media/Bugatti_Typ_35C_Grand_Prix_Racer_1926.jpg": "/static/media/Bugatti_Typ_35C_Grand_Prix_Racer_1926.8e060056.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.9d55790e.js",
+    "static/js/runtime-main.b23e18fc.js",
     "static/js/2.f9a9c346.chunk.js",
     "static/css/main.231dbd54.chunk.css",
-    "static/js/main.c7ba489c.chunk.js"
+    "static/js/main.a4a03802.chunk.js"
   ]
 }
